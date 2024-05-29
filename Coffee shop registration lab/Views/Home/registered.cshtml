@@ -1,0 +1,16 @@
+﻿@model User
+
+@{
+    if (Model.FirstName == null || Model.LastName == null || Model.Email == null)
+    {
+        <h1>Error: All fields require valid input, please try again</h1>
+    }
+    else
+    {
+        <h1>Thank you for registering @Model.FirstName @Model.LastName</h1>
+    }
+}
+
+
+
+

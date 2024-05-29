@@ -1,0 +1,15 @@
+﻿<form asp-method="post" asp-action="registered">
+    <label for="name">First Name:</label>
+    <input type="text" name="FirstName" id="name" />
+
+    <label for="lastname">Last Name:</label>
+    <input type="text" name="LastName" id="lastname" />
+
+    <label for="email">Email:</label>
+    <input type="email" name="Email" id="email" />
+
+    <label for="password">Password (8 characters minimum):</label>
+    <input type="password" name="Password" id="password" minlength="8" required />
+
+    <input type="submit" />
+</form>

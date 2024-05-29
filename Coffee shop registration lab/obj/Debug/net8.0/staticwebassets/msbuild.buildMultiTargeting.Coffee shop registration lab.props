@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Coffee shop registration lab.props" />
+</Project>

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\coffee shop registration lab\\coffee shop registration lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|solutionrelative:coffee shop registration lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\coffee shop registration lab\\coffee shop registration lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|solutionrelative:coffee shop registration lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\coffee shop registration lab\\coffee shop registration lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|solutionrelative:coffee shop registration lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\coffee shop registration lab\\coffee shop registration lab\\views\\home\\registered.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|solutionrelative:coffee shop registration lab\\views\\home\\registered.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\coffee shop registration lab\\coffee shop registration lab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|solutionrelative:coffee shop registration lab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\coffee shop registration lab\\coffee shop registration lab\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01450994-E091-4375-8443-A8887F627131}|Coffee shop registration lab\\Coffee shop registration lab.csproj|solutionrelative:coffee shop registration lab\\views\\home\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Coffee shop registration lab\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Coffee shop registration lab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T18:11:51.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Coffee shop registration lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Coffee shop registration lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:15:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Coffee shop registration lab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Coffee shop registration lab\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:08:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registered.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Home\\registered.cshtml",
+              "RelativeDocumentMoniker": "Coffee shop registration lab\\Views\\Home\\registered.cshtml",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Home\\registered.cshtml",
+              "RelativeToolTip": "Coffee shop registration lab\\Views\\Home\\registered.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:14:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Home\\Form.cshtml",
+              "RelativeDocumentMoniker": "Coffee shop registration lab\\Views\\Home\\Form.cshtml",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Views\\Home\\Form.cshtml",
+              "RelativeToolTip": "Coffee shop registration lab\\Views\\Home\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T17:14:33.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Coffee shop registration lab\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Coffee shop registration lab\\Coffee shop registration lab\\Models\\User.cs",
+              "RelativeToolTip": "Coffee shop registration lab\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:06:59.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\appsettings.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\Coffee shop registration lab.staticwebassets.runtime.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\Coffee shop registration lab.exe
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\Coffee shop registration lab.deps.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\Coffee shop registration lab.runtimeconfig.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\Coffee shop registration lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\bin\Debug\net8.0\Coffee shop registration lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.AssemblyInfoInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.AssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.csproj.CoreCompileInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.RazorAssemblyInfo.cache
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.RazorAssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets\msbuild.Coffee shop registration lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets\msbuild.build.Coffee shop registration lab.props
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Coffee shop registration lab.props
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Coffee shop registration lab.props
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\scopedcss\bundle\Coffee shop registration lab.styles.css
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\scopedcss\projectbundle\Coffee shop registration lab.bundle.scp.css
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\refint\Coffee shop registration lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\Coffee shop registration lab.genruntimeconfig.cache
+C:\Users\Ramses\source\repos\Grand Circus\Coffee shop registration lab\Coffee shop registration lab\obj\Debug\net8.0\ref\Coffee shop registration lab.dll
